@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Tanvir Hassan Banner" width="100%" style="border-radius: 10px;">
+  <img src="GitHub banner.png" alt="Tanvir Hassan Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <p align="center">
