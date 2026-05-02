@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.tanvirofficial.com" target="_blank">
+  <a href="https://tanvirofficial.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/tanvir-hassan-bd" target="_blank">
